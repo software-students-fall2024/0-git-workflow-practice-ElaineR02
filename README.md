@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+## Article:   
+https://www.softwareengineerinsider.com/articles/what-is-software-engineering.html   
+
+## What's interesting?     
+What I find interesting about the article is how it emphasizes that software engineering is much more than just writing code—it involves a systematic process that applies engineering principles to software development. The article highlights how crucial this discipline is in creating reliable and high-stakes software, such as the kind used in medical devices and defense systems, where failure could result in tangible consequences, even the loss of life. I also found it intriguing how software engineering, unlike traditional engineering, deals with intangible structures but still requires the same level of precision and care. The discussion on the different branches of software engineering—applications and systems software—also showcases the diverse career paths within the field, making it clear how critical well-engineered software is in various industries.    
