@@ -12,4 +12,4 @@ https://careerfoundry.com/en/blog/web-development/how-to-become-a-software-engin
 Overall, the article has collectively illustrate the effort and reward in software engineering, and how technical and soft skills are needed for success in the field, thus leading a clear path for me to became a software engineer.
 
 ## Elaine Lyu's Comment     
-It is interesting how the article emphasizes the diverse pathways to becoming a software engineer, from bootcamps to self-study and formal degrees.
+I think this is interesting how the article emphasizes the diverse pathways to becoming a software engineer, from bootcamps to self-study and formal degrees. It's also intriguing that the field offers flexibility in both career roles and work environments, allowing engineers to choose between freelance projects or structured company roles.
